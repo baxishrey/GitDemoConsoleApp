@@ -11,6 +11,7 @@ namespace GitGemoConsoleApp
             Console.WriteLine("One more line");
 
             Console.WriteLine("P2P line 1");
+            Console.WriteLine("P2P line 2");
         }
     }
 }
